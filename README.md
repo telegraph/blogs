@@ -1,6 +1,6 @@
 # The Telegraph Engineering Blogs
-Visit The Telegraph Engineering Blogs for the latest updates from our Engineering teams
-[Blogs](https://engineering.telegraph.co.uk)
+Visit The Telegraph Engineering [Blogs](https://engineering.telegraph.co.uk) for the latest updates from our Engineering teams
+
 
 # Our Teams
 Find out about [The Telegraph Engineers] (https://medium.com/the-telegraph-engineering/about) powering telegraph.co.uk, The Telegraph mobile apps, Google AMP, Amazon echo Skills and Facebook articles
